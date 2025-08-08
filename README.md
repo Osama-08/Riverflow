@@ -1,6 +1,6 @@
-# 🚀 Dev Discuss
+# 🚀 Riverflow
 
-**Dev Discuss** is a platform that allows the developer community to interact by posting questions, answering, commenting, and voting. The reputation system increases user credibility based on votes, encouraging quality contributions.
+**Riverflow** is a platform that allows the developer community to interact by posting questions, answering, commenting, and voting. The reputation system increases user credibility based on votes, encouraging quality contributions.
 
 ---
 
